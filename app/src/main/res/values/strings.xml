@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EduCodeApp</string>
+    <!-- TITLES -->
+    <string name="title_activity_body">BodyActivity</string>
+    <string name="title_home">User</string>
+    <string name="title_dashboard">Test</string>
+    <string name="title_notifications">Results</string>
+
+    <!-- TEXTS -->
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">E-mail</string>
+    <string name="successes">Aciertos:</string>
+    <string name="errors">Errores:</string>
+    <string name="results">RESULTADOS</string>
+
+    <!-- BUTTONS -->
+    <string name="log_in">Entrar</string>
+    <string name="log_out">Salir</string>
+    <string name="delete">Eliminar</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+    <string name="former">Anterior</string>
+
+    <!-- TEXT VIEWS -->
+    <string name="text_sign_up">Nuevo Usuario</string>
+
+</resources>
